@@ -9,12 +9,12 @@
  * @wordpress-plugin
  * Plugin Name:       Wordpress Banner Rotator
  * Plugin URI:        https://drjest.dev/wp/wp-banner-rotator
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+ * Description:       Simple Plugin to show banners on Wordpress website.
  * Version:           1.0.2
  * Author:            Simone Albano
  * Author URI:        https://drjest.dev
  * License:           GPL-2.0+
- * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
+ * License URI:       http://www.gnu.org/licenses/gpl-3.0.html
  * Text Domain:       wp-banner-rotator
  * Domain Path:       /languages
  */
